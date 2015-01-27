@@ -1,7 +1,9 @@
 ---
-title: Haftungsausschluss (Disclaimer)
+title: Disclaimer
 layout: default
 ---
+
+*The website falls under the legal jurisdiction of the Federal Republic of Germany. Therefore German is used for the official legal statement.*
 
 ## Haftung für Inhalte
 

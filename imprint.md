@@ -1,7 +1,9 @@
 ---
-title: Impressum
+title: Imprint
 layout: default
 ---
+
+*The website falls under the legal jurisdiction of the Federal Republic of Germany. Therefore German is used for the official legal statement.*
 
 ## Angaben gemäß § 5 TMG:
 

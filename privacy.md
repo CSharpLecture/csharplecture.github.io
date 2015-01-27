@@ -1,7 +1,9 @@
 ---
-title: Datenschutzerklärung
+title: Privacy
 layout: default
 ---
+
+*The website falls under the legal jurisdiction of the Federal Republic of Germany. Therefore German is used for the official legal statement.*
 
 Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.
 
