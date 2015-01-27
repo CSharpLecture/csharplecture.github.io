@@ -1,0 +1,25 @@
+title: "C# Lecture Homepage"
+author: "Florian Rappl"
+email: "mail@florian-rappl.de"
+description: "Official website of the C# lecture of the University of Regensburg."
+keywords: "Lecture, C#, C-Sharp, Microsoft, .NET, Regensburg, University"
+baseurl: "/"
+url: "http://csharplecture.github.io"
+more: "read more"
+favicon: "/images/favicon.ico"
+
+style:
+    body: "whitesmoke"
+    nav: "#181818"
+    article:
+        even: "white"
+        odd: "#222222"
+
+links:
+  - github: "https://github.com/CSharpLecture/"
+
+excerpt_separator: "\n\n\n"
+markdown: kramdown
+highlighter: pygments
+paginate: 5
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: false}}]

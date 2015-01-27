@@ -1,3 +1,17 @@
-<!DOCTYPE html>
-<title>C# lecture homepage</title>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+---
+layout: blank
+---
+    {% for page in site.posts %}
+    <article>
+      <header>
+        <h2><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+        <p>{% if page.author %}{{ page.author }} • {% endif %}{% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% endif %}{% if page.categories %} • {{ page.categories | join: ','}}{% endif %}</p>
+      </header>
+      <div>
+{{ page.excerpt }}
+      </div>
+      <footer>
+        <p><a href="{{ page.url | prepend: site.baseurl }}">{{ site.more }} &raquo;</a></p>
+      </footer>
+    </article>
+    {% endfor %}
