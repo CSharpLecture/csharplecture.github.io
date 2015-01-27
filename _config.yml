@@ -14,9 +14,6 @@ style:
         even: "white"
         odd: "#222222"
 
-links:
-  - github: "https://github.com/CSharpLecture/"
-
 excerpt_separator: "\n\n\n"
 markdown: kramdown
 highlighter: pygments
