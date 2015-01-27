@@ -1,9 +1,7 @@
 ---
-title: Imprint
-layout: blank
+title: Impressum
+layout: default
 ---
-
-# Impressum
 
 ## Angaben gemäß § 5 TMG:
 

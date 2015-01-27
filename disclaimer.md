@@ -1,9 +1,7 @@
 ---
-title: Disclaimer
-layout: blank
+title: Haftungsausschluss (Disclaimer)
+layout: default
 ---
-
-# Haftungsausschluss (Disclaimer)
 
 ## Haftung für Inhalte
 
