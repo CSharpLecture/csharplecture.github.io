@@ -1,6 +1,6 @@
 ---
 title: Privacy statement
-layout: post
+layout: blank
 ---
 
 # Datenschutzerklärung

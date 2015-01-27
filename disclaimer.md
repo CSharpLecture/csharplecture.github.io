@@ -1,6 +1,6 @@
 ---
 title: Disclaimer
-layout: post
+layout: blank
 ---
 
 # Haftungsausschluss (Disclaimer)
