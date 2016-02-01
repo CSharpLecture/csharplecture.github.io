@@ -1,6 +1,6 @@
 ---
 title:  "Lecture Details Summer 2016"
-date:   2016-02-02 19:55:00
+date:   2016-02-01 20:59:00
 categories: news
 ---
 
