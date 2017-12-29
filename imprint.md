@@ -13,8 +13,8 @@ Universitätsstr. 31
 
 ## Vertreten durch:
 
-Benedikt Strasser
-Universitätsstr. 31
+Benedikt Strasser  
+Universitätsstr. 31  
 93053 Regensburg
 
 ## Kontakt:
